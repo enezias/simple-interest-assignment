@@ -1,7 +1,5 @@
-# Simple Interest Calculator
-
+# Simple Interest Calculator:
 [Repository](https://github.com/enezias/simple-interest-assignment)
-
 A shell script calculator for computing simple interest on financial investments or loans.
 
 ## Description
@@ -68,5 +66,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 This project adheres to a code of conduct. Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
 
 ## Author
+
 
 Created as part of a Git/GitHub coursework assignment.
